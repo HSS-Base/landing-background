@@ -2,9 +2,9 @@ body {
     min-height: 100vh;
     overflow-x: hidden;
         /* Hides horizontal overflow, allows vertical scrolling */
-        overflow-y: auto;
+    overflow-y: auto;
         /* Enables vertical scrolling */
-    background-color: #000000;
+    background-color: #0f0f0f;
 }
 body:before {
     content: '';
